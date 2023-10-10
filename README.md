@@ -1,4 +1,4 @@
-# DCSA CBF - Consolidated Booking forecast
+# DCSA CBF - Consolidated Booking Forecast
 
 Building and Running the project,
 -------------------------------------
