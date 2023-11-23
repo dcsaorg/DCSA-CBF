@@ -1,4 +1,4 @@
-package org.dcsa.tnt;
+package org.dcsa.cbf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -38,6 +38,7 @@
 		<module>cbf-domain</module>
 		<module>cbf-service</module>
 		<module>cbf-application</module>
+		<module>cbf-persistence</module>
 	</modules>
 
 	<dependencies>
@@ -63,12 +64,22 @@
 			</dependency>
 			<dependency>
 				<groupId>org.dcsa.cbf</groupId>
+				<artifactId>dcsa-cbf-application</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.dcsa.cbf</groupId>
 				<artifactId>dcsa-cbf-domain</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.dcsa.cbf</groupId>
 				<artifactId>dcsa-cbf-service</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>org.dcsa.cbf</groupId>
+				<artifactId>dcsa-cbf-persistence</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 			<dependency>

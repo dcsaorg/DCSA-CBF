@@ -29,6 +29,10 @@
 			<artifactId>dcsa-cbf-service</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>org.dcsa.cbf</groupId>
+			<artifactId>dcsa-cbf-persistence</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>org.mapstruct</groupId>
 			<artifactId>mapstruct</artifactId>
 		</dependency>
